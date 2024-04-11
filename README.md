@@ -140,7 +140,7 @@ curl -X POST localhost:30006/books/new \
 -H 'Content-Type: application/json'  \
 -d '{ "authorfirstname": "Haruki", "authorlastname": "Murakami", "bookname": "1Q84", "price": 55}'
 ```
-You will get an index ID as response: {"id":"5ec9145d-f822-11ee-b41d-5e8662e7a658"}
+You will get an index ID as response (in this case): {"id":"5ec9145d-f822-11ee-b41d-5e8662e7a658"}
 </br>
 
 9. Check the inserted rows:
