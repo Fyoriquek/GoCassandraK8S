@@ -10,7 +10,7 @@ Start by creating the namespace, in this case, cassandra-go
 ```
 </br>
 
-1. Create secrets (you can change the variables under password folder)
+1. Create secrets (you can change the variable values under password folder)
    
 CassandraK8S/CassandraSecrets# go run secrets.go
 
