@@ -1,4 +1,8 @@
 # Cassandra microservice on K8S (Golang)
+</br>
+
+
+![image](https://github.com/Fyoriquek/GoCassandraK8S/assets/166552285/de6f518d-091a-4ba1-ba38-00252d184b4a)
 
 
 
